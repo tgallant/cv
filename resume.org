@@ -1,0 +1,74 @@
+#+LANGUAGE: en
+#+OPTIONS: toc:nil author:nil date:nil num:nil ':t
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt]
+#+LATEX_HEADER: \usepackage[a4paper,top=2cm,bottom=2cm,left=1.5cm,right=1.5cm]{geometry}
+#+LATEX_HEADER: \hypersetup{colorlinks=true}
+
+* Tim Gallant CV
+** Work Experience
+*** Software Engineer, ATTN:
+    Remote - July 2016 to present
+
+    + Worked with a small, fully remote team to build and maintain a high traffic
+      website.
+    + Collaborated with other engineers and managers to plan sprints and set team
+      priorities.
+    + Helped establish team standards for code review expectations, testing, and
+      CI/CD strategies.
+    + Followed principles of Agile Development to create pull requests that
+      are testable and easy to review.
+    + Performed code review for other engineers.
+    + Led various projects from initial specifications to shipped code:
+      + Content Syndication (Instant Articles, GoogleAMP, RSS, MRSS)
+      + Image optimization and page load performance
+      + ReactJS Component refactoring to reduce code duplication
+      + GitHub reorganization for better developer experience
+    + *Main Technologies*: Node.js, SCSS, ReactJS, Vue, Heroku, CircleCI
+*** CMS Developer, SimpleView Inc.
+    Tucson, AZ - December 2014 to July 2016
+
+    + Built responsive websites using modern web technologies.
+    + Created dynamic websites by utilizing data from various internal and
+      external APIs.
+    + Contributed bug fixes and improvements to the core CMS code.
+    + Helped train new developers.
+    + Worked closely with project managers, designers, and team leads to
+      complete tasks .
+    + *Main Technologies*: Node.js, MongoDB, Foundation, Photoshop
+
+*** Software Developer, Mural
+    Tucson, AZ - July 2013 to December 2014
+
+    + Developed an appointment scheduler that was sold to clients.
+    + Migrated our phone system to Asterisk, saving the company thousands
+      in yearly VOIP fees.
+    + Developed a WebRTC based web phone that integrates with Asterisk for
+      better reporting and integration into the company’s CRM software.
+    + Administered the company’s phone system. Maintained infrastructure
+      to support 30+ concurrent users and approximately 1000 calls a day.
+    + *Main Technologies*: Django, NodeJS, AngularJS, PostgreSQL
+
+** Education
+  Philosophy and Linguistics\\
+  University of Arizona\\
+  2009-2013
+
+** Open Source
+
+  [[https://github.com/tgallant]]
+
+*** Selected Contributions
+    + https://embedd.io - a social embed script for reddit and hacker news
+      comments.
+    + [[http://torcalc.org]] - a web page for generating Tor configuration files.
+      based on available bandwidth allocation (maintainer).
+    + PyTeaser - article summarizer written in Python (code).
+    + Python-goose - HTML web scraping library (code).
+
+** Skills
+  + *Development*: Node.js, ReactJS, Gulp/Webpack, Git, Elixir, Common Lisp,
+    SQL(PostgreSQL,MySQL, MSSQL), NoSQL(MongoDB), CSS/SCSS/PostCSS, Docker,
+    Vagrant, Linux
+  + 66 ProjectEuler problems solved (top 5% of all users)
+    [[https://projecteuler.net/profile/tgallant.png]]
